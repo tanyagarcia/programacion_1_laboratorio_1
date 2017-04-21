@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492773099 source:c:\users\tanya\documents\laboratorio1\ejercicio.vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
