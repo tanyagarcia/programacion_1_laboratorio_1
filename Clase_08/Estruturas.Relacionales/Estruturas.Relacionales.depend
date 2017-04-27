@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1493300283 source:c:\users\alumno\desktop\estruturas.relacionales\funciones.c
+	"funciones.h"
+
+1493299345 c:\users\alumno\desktop\estruturas.relacionales\funciones.h
+
+1493302509 source:c:\users\alumno\desktop\estruturas.relacionales\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
