@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1493391503 source:c:\users\alumno\desktop\estructurasrelacionales\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<string.h>
+
+1493391490 c:\users\alumno\desktop\estructurasrelacionales\untitled1.h
+
+1493390828 source:c:\users\alumno\desktop\estructurasrelacionales\untitled2.c
+	"Untitled1.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
