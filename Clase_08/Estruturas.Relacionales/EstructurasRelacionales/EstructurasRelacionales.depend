@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1493376940 source:c:\users\tanya\documents\laboratorio1\estructurasrelacionales\estructurasrelacionales.c
+	"EstructurasRelacionales.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1493374455 c:\users\tanya\documents\laboratorio1\estructurasrelacionales\estructurasrelacionales.h
+
+1493377512 source:c:\users\tanya\documents\laboratorio1\estructurasrelacionales\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EstructurasRelacionales.h"
+	<string.h>
+
