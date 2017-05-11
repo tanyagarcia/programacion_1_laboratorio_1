@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1493908130 source:d:\mis documentos\garcia.tanya\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estacionamiento.h"
+
+1493908109 d:\mis documentos\garcia.tanya\estacionamiento.h
+
+1494500874 source:c:\users\tanya\downloads\garcia.tanya\garcia.tanya\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estacionamiento2.h"
+
+1493908109 c:\users\tanya\downloads\garcia.tanya\garcia.tanya\estacionamiento.h
+
+1494499695 c:\users\tanya\downloads\garcia.tanya\garcia.tanya\estacionamiento2.h
+
+1494501485 source:c:\users\tanya\downloads\garcia.tanya\garcia.tanya\estacionamiento2.c
+	<conio.h>
+	"estacionamiento2.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
